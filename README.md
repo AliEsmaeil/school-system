@@ -3,9 +3,9 @@
 This's a console application that's written in `C` designed to manage all students registered atin any level in a school.
 
 ### Table of contents
-- [Features](#features)
-- [Usage](#usage)
-- [Applied Concepts](#applied-concepts)
+- [Features]
+- [Usage]
+- [Applied Concepts]
 
 >**Features**
 
@@ -15,20 +15,16 @@ The user can *add*, *update*, *search* and *delete* a student record.
 
 Although it's a console application, it performs the core operations required for a GUI-based system.
 
-1.Clone this repository:
-
+1. Clone this repository:
 `git clone https://github.com/your-username/school-system.git`
 
-2.Navigate to the project directory:
-
+2. Navigate to the project directory:
 `cd school-system`
 
-3.Compile the application using a C compiler:
-
+3. Compile the application using a C compiler:
 `gcc -o school-system main.c`
 
-4.Run the application:
-
+4. Run the application:
 `./school-system`
 
 `
